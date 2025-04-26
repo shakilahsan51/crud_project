@@ -1,1 +1,1 @@
-![Image Alt](https://github.com/shakilahsan51/Project-Eloquent/blob/47a12167030e5e43d0abcdbf8f5f95b63b787c11/SS-2%20.PNG) 
+![Image Alt](https://github.com/shakilahsan51/crud_project/blob/main/crud_project.PNG?raw=true) 
